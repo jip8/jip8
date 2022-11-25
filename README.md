@@ -6,7 +6,7 @@
         <p>Amo criar e inventar</p>
         <p>Apaixonado por tecnologia</p>
 </div>
-<div>
+<div style="textalign: right;">
         <p>Estudo programaçao de forma autonoma</p>
         <p>Buscando uma oportunidade na área</p>
         <p>Pois é nisso que quero construir meu futuro!</p>
