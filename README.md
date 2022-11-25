@@ -1,11 +1,15 @@
-### Prazer, Pedro L. M. da Silva
-# Clique aqui para ver meu Portfólio!
+<h1>Prazer,meu nome é Pedro L. M. da Silva!</h1>
+<h2><a href="http://jip.github.io" target="_blank" rel="external">Clique aqui para ver meu Portfólio!</a></h2>
 
-Mais um jovem curioso
-Amo criar e inventar
-Apaixonado por tecnologia 
-Estudo programaçao de forma autonoma 
-Buscando uma oportunidade na área 
-Pois é nisso que quero construir meu futuro!
+<div>
+        <p>Mais um jovem curioso</p>
+        <p>Amo criar e inventar</p>
+        <p>Apaixonado por tecnologia</p>
+</div>
+<div>
+        <p>Estudo programaçao de forma autonoma</p>
+        <p>Buscando uma oportunidade na área</p>
+        <p>Pois é nisso que quero construir meu futuro!</p>
+</div>
 
 <!--Dev by Jip8-->
