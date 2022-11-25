@@ -1,5 +1,5 @@
 <div align="center">
-        <h1>Prazer,meu nome é Pedro L. M. da Silva!</h1>
+        <h1>Prazer! Meu nome é Pedro L. M. da Silva!</h1>
         <h2><a href="http://jip8.github.io" target="_blank" rel="external">Clique aqui para ver meu Portfólio!</a></h2>
 </div>
 
