@@ -16,4 +16,12 @@
         <p>Pois é nisso que quero construir meu futuro! <--</p>
 </div>
 
+<div align="center">
+    <abbr title="HTML"><img style="width: 75px; height: 75px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></abbr>
+    <abbr title="CSS"><img style="width: 75px; height: 75px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></abbr>
+    <abbr title="JavaScript"><img style="width: 75px; height: 75px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></abbr>
+    <abbr title="Python"><img style="width: 75px; height: 75px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></abbr>
+    <abbr title="C"><img style="width: 75px; height: 75px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></abbr>
+</div>
+
 <!--Dev by Jip8-->
