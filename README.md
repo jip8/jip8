@@ -3,6 +3,7 @@
         <h2><a href="http://jip8.github.io" target="_blank" rel="external">Clique aqui para ver meu Portfólio!</a></h2>
 </div>
 
+<img align="center" src="images/gif-pc.gif" alt="">
 
 <h3 align="center">SOBRE MIM</h3>
 <div align="left">
