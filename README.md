@@ -6,8 +6,6 @@
 <img align="left" vertical-align="middle" src="images/gif-pc.gif" alt="">
 
 <h3 align="center">SOBRE MIM</h3>
-<br>
-<br>
 <div align="left">
         <p>--> Mais um jovem curioso</p>
         <p>--> Amo criar e inventar</p>
