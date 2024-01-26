@@ -4,7 +4,6 @@
 </div>
 
 <img align="right" src="images/gif-pc.gif" alt="">
-<h2 align="center"><a href="http://jip8.github.io" target="_blank" rel="external">Clique aqui para ver meu Portfólio!</a></h2>
 <h3 align="center">SOBRE MIM</h3>
 <div align="left">
         <p>--> Mais um jovem curioso</p>
